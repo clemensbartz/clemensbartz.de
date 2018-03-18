@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{%endblock%}
+
+{% block translations %}
+        <p class="lang"> <a href="{{ SITEURL }}/{{page.url}}">&gt; {{ page.lang|lang_to_locale }}</a>{% for translated_page in page.translations %} <a href="{{ SITEURL }}/{{ translated_page.url }}">{{ translated_page.lang|lang_to_locale }}</a>{% endfor %}</p>
+{% endblock %}
+
+{% block content %}
+    {% if page.index %}
+    {% for p in pages if not p.index %}
+    {% set locale_page = { 'page': p } %}
+        {% for translated_page in p.translations if translated_page.lang == page.lang %}
+            {% if locale_page.update({ 'page': translated_page }) %}{% endif %}
+        {% endfor %}
+    <section>
+        <h2>{{ locale_page.page.title }}</h2>
+        <p><a href="{{ SITEURL }}/{{ locale_page.page.url }}">{{ locale_page.page.title }}</a> {{ locale_page.page.teaser }}</p>
+    </section>
+    {% endfor %}
+    <section>
+{{ page.content }}
+    </section>
+    {% else %}
+    <section>
+        <h2>{{ page.title }}</h2>
+        <p><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a> {{ page.teaser }}</p>
+        {{ page.content }}
+    </section>
+    {% endif %}
+{% endblock %}

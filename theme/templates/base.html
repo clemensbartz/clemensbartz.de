@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+{% if page is not defined %}
+	{% set lang = DEFAULT_LANG %}
+{% else %}
+	{% set lang = page.lang %}
+{% endif %}
+{# Set default lang #}
+{% set index = { 'page': False } %}
+{% for p in pages if p.index and p.in_default_lang %}
+  {% if index.update({ 'page': p }) %}{% endif %}
+{% endfor %}
+{% for p in pages if p.index %}
+    {% for trans in p.translations if trans.lang == lang %}
+        {% if index.update({ 'page': trans }) %}{% endif %}
+    {% endfor %}
+{% endfor %}
+<html lang="{{ lang }}">
+<head>
+        <title>{% block title %}{% endblock title %} - {{ SITENAME }}</title>
+        <meta charset="utf-8" />
+        <meta name="robots" content="index,follow" />
+        <meta name="description" content="" />
+        <link rel="icon" type="image/ico" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/main.css" />
+</head>
+<body>
+    <header>
+        <a href="{{ SITEURL }}/{{ index.page.url }}"><h1>{{ SITENAME }}</h1></a>
+        <p>Repositories by <a href="{{ AUTHORURL }}">{{ AUTHOR }}</a><p>
+        {% block translations %}{% endblock translations %}
+    </header>
+    {% block content %}
+    {% endblock content %}
+    <footer>
+        <p><a href="{{ AUTHORURL }}/impressum.html">Impressum/Legal notice</a></p>
+    </footer>
+</body>
+</html>
