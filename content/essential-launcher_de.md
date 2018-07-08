@@ -29,7 +29,7 @@ Hier geht es zum [Github-Repository](https://github.com/clemensbartz/essential-l
 
 ### Download
 
-<a href="https://f-droid.org/app/de.clemensbartz.android.launcher"><img src="https://f-droid.org/badge/get-it-on-de.png" alt="Jetzt bei F-Droid" width="200em"></a>
+<a href="https://f-droid.org/app/de.clemensbartz.android.launcher"><img src="https://f-droid.org/artwork/badge/get-it-on-de.png" alt="Jetzt bei F-Droid" width="200em"></a>
 <a href='https://play.google.com/store/apps/details?id=de.clemensbartz.android.launcher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Jetzt bei Google Play' width="200px" src='https://play.google.com/intl/en_us/badges/images/generic/de_badge_web_generic.png'/></a>
 
 Du kannst dir auch den Quelltext herunterladen und es selbst kompilieren.
