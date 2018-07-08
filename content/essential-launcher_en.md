@@ -4,7 +4,7 @@ Teaser: is a very small launcher (&lt; 30 KB APK size) with all essential functi
 Weight: 100
 lang: en
 
-![Screenshot]({filename}/images/essential-launcher/handset1.png){:style="max-height:20em; max-width: 95%;"}
+![Screenshot]({filename}/images/essential-launcher/handset2.png)
 
 ### Introduction
 
