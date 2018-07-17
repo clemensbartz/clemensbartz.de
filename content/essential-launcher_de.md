@@ -1,6 +1,6 @@
 Title: Essentialer Launcher
 slug: essential-launcher
-Teaser: ist ein sehr kleiner Launcher (&lt; 30 KB APK size) mit allen essentiellen Funktionen.
+Teaser: ist ein sehr kleiner Launcher mit allen essentiellen Funktionen.
 Weight: 100
 lang: de
 
