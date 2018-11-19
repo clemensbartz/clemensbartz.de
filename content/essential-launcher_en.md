@@ -12,10 +12,10 @@ Save system resources with Essential Launcher. Contrary to all heavy-weight solu
 
 ### Main features
 
-- Choose a selectable widget (long press "App drawer")
+- Choose a selectable widget
 - A dock with the most used apps
 - Make apps sticky on the dock
-- An app drawer with the ability to launch information about the app and uninstall them
+- An app drawer with the ability to launch and show information about the app
 - Accessibility ready
 - Support for LTR and RTL texts
 

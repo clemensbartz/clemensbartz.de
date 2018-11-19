@@ -12,10 +12,10 @@ Spare deine Systemressourcen mit dem Essentialen Launcher. Im Gegensatz zu allen
 
 ### Funktionen
 
-- Wähle ein Widget aus, indem du auf den "App Drawer" lang drückst. Du kannst es dort auch wieder entfernen.
+- Wähle ein Widget aus und ändere seine Größe. Du kannst es auch wieder entfernen.
 - Ein Dock mit dem am häufigsten genutzten Apps.
 - Die Möglichkeit, Apps im Dock anzuheften.
-- Eine App-Übersicht mit der Möglichkeit, Apps zu öffnen oder zu deinstallieren.
+- Eine App-Übersicht mit der Möglichkeit, Apps zu öffnen oder Informationen über diese anzuzeigen.
 - Geeignet für Menschen mit Beeinträchtigungen
 - Unterstützt LTR und RTL Schriftarten
 
