@@ -1,6 +1,6 @@
 @font-face { font-family: Charter; src: local("Charter Regular"), url("charter_regular-webfont.woff"); }
 a, a:visited, a:hover, a:focus { color: #09F; }
-body { font-family: Charter; font-size: 1em; line-height: 1.45em; }
+body { color: white; background-color: black; font-family: Charter; font-size: 1em; line-height: 1.45em; }
 header > a { text-decoration: none; }
 header { text-align: center; }
 header > p { padding: 0 2em 0 2em; }
