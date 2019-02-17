@@ -67,6 +67,12 @@ def lang_to_locale(l):
 	return {
 		'en': 'English',
 		'de': 'Deutsch',
+		'es': 'Español',
+		'pt': 'Português',
+		'fr': 'Français',
+		'it': 'Italiano',
+		'nl': 'Nederlands',
+		'ru': 'Русский',
 	}.get(l, l);
 
 JINJA_FILTERS = {
