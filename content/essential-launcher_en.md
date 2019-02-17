@@ -1,6 +1,6 @@
 Title: Essential Launcher
 slug: essential-launcher
-Teaser: is a very small launcher with all essential functionality
+Teaser: is a very small launcher with all essential functionality.
 Weight: 100
 lang: en
 
@@ -8,13 +8,12 @@ lang: en
 
 ### Introduction
 
-Save system resources with Essential Launcher. Contrary to all heavy-weight solutions with 3D and many settings, Essential Launcher offers the most important functionality in a very compact way.
+Essential Launcher is a very small launcher offering most basic functionality. It is easy on disk usage, memory and CPU usage.
 
 ### Main features
 
-- Choose a selectable widget
-- A dock with the most used apps
-- Make apps sticky on the dock
+- Choose a widget or leave it blank
+- Pin an app to the dock
 - An app drawer with the ability to launch and show information about the app
 - Accessibility ready
 - Support for LTR and RTL texts
