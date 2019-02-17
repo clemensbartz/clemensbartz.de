@@ -29,7 +29,7 @@ Haga clic aquí para ver el [repositorio de Github](https://github.com/clemensba
 ### Descargar
 
 <a href="https://f-droid.org/app/de.clemensbartz.android.launcher"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-es.png" alt="Disponible en F-Droid" width="200em"></a>
-<a href='https://play.google.com/store/apps/details?id=de.clemensbartz.android.launcher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' width="200px" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=de.clemensbartz.android.launcher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' width="200px" src='https://play.google.com/intl/en_us/badges/images/generic/es_badge_web_generic.png'/></a>
 
 También puede descargar el código fuente y compilarlo usted mismo.
 
