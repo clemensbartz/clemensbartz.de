@@ -1,4 +1,4 @@
-Title: Essentialer Launcher
+Title: Essentieller Launcher
 slug: essential-launcher
 Teaser: ist ein sehr kleiner Launcher mit allen essentiellen Funktionen.
 Weight: 100
@@ -8,16 +8,15 @@ lang: de
 
 ### Einleitung
 
-Spare deine Systemressourcen mit dem Essentialen Launcher. Im Gegensatz zu allen schwergewichtigen Lösungen mit 3D und vielen Einstellungsmöglichkeiten überzeigt der Essentiale Launcher nur mit den wichtigsten Funktionen in kompaktem Gewand.
+Essentieller Launcher ist ein sehr kleiner Launcher, der trotzdem grundlegende Funktionen bietet. Er schont Speicherplatz, RAM und CPU.
 
 ### Funktionen
 
-- Wähle ein Widget aus und ändere seine Größe. Du kannst es auch wieder entfernen.
-- Ein Dock mit dem am häufigsten genutzten Apps.
-- Die Möglichkeit, Apps im Dock anzuheften.
-- Eine App-Übersicht mit der Möglichkeit, Apps zu öffnen oder Informationen über diese anzuzeigen.
-- Geeignet für Menschen mit Beeinträchtigungen
-- Unterstützt LTR und RTL Schriftarten
+- Wähle ein Widget oder genieße das Hintergrundbild
+- Hefte Apps am Dock an
+- Zeige alle Apps im Appdrawer an
+- Behindertengerecht
+- Unterstützt auch andere Leserichtigungen
 
 ### Aktuell fehlende Funktionen
 
