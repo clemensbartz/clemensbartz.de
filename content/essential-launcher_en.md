@@ -30,6 +30,9 @@ Have a look at the [Github-Repository](https://github.com/clemensbartz/essential
 
 <a href="https://f-droid.org/app/de.clemensbartz.android.launcher"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="200em"></a>
 <a href='https://play.google.com/store/apps/details?id=de.clemensbartz.android.launcher&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="200em" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href="https://aapks.com/apk/essential-launcher/"><img src="https://aapks.com/get.png" alt="Get it on AAPKS.com" width="200em"/></a>
+<a href="https://github.com/clemensbartz/essential-launcher/releases/latest"><img src="https://raw.githubusercontent.com/clemensbartz/essential-launcher/release/v2.0/promo/graphics/en/get-github.png" alt="Get it on Github.com" width="200em"/></a>
+<a href="https://github.com/clemensbartz/essential-launcher/releases.atom"><img src="https://raw.githubusercontent.com/clemensbartz/essential-launcher/release/v2.0/promo/graphics/en/subscribe-atom.png" alt="Subscribe via Atom" width="200em"/></a>
 
 Or you can download the source code and compile it for yourself.
 
