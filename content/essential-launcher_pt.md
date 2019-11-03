@@ -4,7 +4,7 @@ Teaser: é um lançador muito pequeno, com todos os recursos essenciais.
 Weight: 100
 lang: pt
 
-![Screenshot]({filename}/images/essential-launcher/handset1.png)
+![Screenshot]({static}/images/essential-launcher/handset1.png)
 
 ### Introdução
 

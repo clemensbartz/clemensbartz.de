@@ -4,7 +4,7 @@ Teaser: это очень маленькая пусковая установка
 Weight: 100
 lang: ru
 
-![Screenshot]({filename}/images/essential-launcher/handset1.png)
+![Screenshot]({static}/images/essential-launcher/handset1.png)
 
 ### Введение
 

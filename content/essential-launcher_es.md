@@ -1,10 +1,10 @@
-Title: Lanzador Esencial 
+Title: Lanzador Esencial
 slug: essential-launcher
 Teaser: es un lanzador muy pequeño con todas las características esenciales.
 Weight: 100
 lang: es
 
-![Screenshot]({filename}/images/essential-launcher/handset1.png)
+![Screenshot]({static}/images/essential-launcher/handset1.png)
 
 ### Introducción
 

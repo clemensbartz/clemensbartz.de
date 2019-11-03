@@ -4,7 +4,7 @@ Teaser: is a very small launcher with all essential functionality.
 Weight: 100
 lang: en
 
-![Screenshot]({filename}/images/essential-launcher/handset1.png)
+![Screenshot]({static}/images/essential-launcher/handset1.png)
 
 ### Introduction
 
@@ -38,4 +38,4 @@ Or you can download the source code and compile it for yourself.
 
 ### License
 
-This program is distributed under the GLPv3 License or later. 
+This program is distributed under the GLPv3 License or later.
