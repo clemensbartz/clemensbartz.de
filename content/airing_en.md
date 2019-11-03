@@ -6,7 +6,7 @@ lang: en
 
 ### Introduction
 
-[Airing](https://clemensbartz.github.io/airing/) is a web site to determine the effect of opening the window.
+Airing is a web site to determine the effect of opening the window. [Try it yourself](https://clemensbartz.github.io/airing/index.html).
 
 ### Main features
 
@@ -21,4 +21,4 @@ Have a look at the [Github-Repository](https://github.com/clemensbartz/airing).
 
 ### License
 
-This web site is distributed under the GLPv3 License. 
+This web site is distributed under the GLPv3 License.
