@@ -13,4 +13,4 @@ jobs:
           source .venv/bin/activate
           pip install wheel
           pip install -r requirements.txt
-          python3 -m pelican --fatal warnings -s publishconf.py
+          pelican --fatal warnings -s publishconf.py
