@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set-up virtual env
+        run: python3 -m venv .venv
+      - name: Source
+        run: source .venv/bin/activate
+      - name: Install requirements.txt
+        run: pip install -r requirements.txt
+      - name: Run pelican
+        run: pelican -s publishconf.py
