@@ -16,4 +16,4 @@ jobs:
       - name: Install requirements.txt
         run: pip install -r requirements.txt
       - name: Run pelican
-        run: pelican --fatal warnings -s publishconf.py
+        run: python3 -m pelican --fatal warnings -s publishconf.py
