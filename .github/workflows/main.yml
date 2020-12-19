@@ -11,6 +11,8 @@ jobs:
         run: python3 -m venv .venv
       - name: Source
         run: source .venv/bin/activate
+      - name: Install wheel
+        run: pip install wheel
       - name: Install requirements.txt
         run: pip install -r requirements.txt
       - name: Run pelican
